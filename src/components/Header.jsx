@@ -1,7 +1,4 @@
-// components/Navbar.jsx
-// Sticky scroll-aware navbar — Cormorant Garamond + Outfit
-// Add to index.html:
-// <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Outfit:wght@300;400;500&display=swap" rel="stylesheet" />
+
 
 import { useState, useEffect } from "react";
 
