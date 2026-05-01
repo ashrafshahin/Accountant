@@ -9,6 +9,7 @@ import Services from './pages/Services.jsx'
 import About from './pages/About.jsx'
 import Home from './pages/Home.jsx'
 import Contact from './pages/Contact.jsx'
+import Careers from './pages/Careers.jsx'
 
 const routerShahin = createBrowserRouter([
   {
@@ -20,6 +21,7 @@ const routerShahin = createBrowserRouter([
       { path: "services", Component: Services },
       { path: "contact", Component: Contact },
       { path: "contacts", Component: Contact },
+      { path: "careers", Component: Careers },
     ]
     
   },
